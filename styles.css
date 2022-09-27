@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Tahoma, serif;
+}
+
+#h-index, .h-title {
+    font-family: Verdana, Tahoma;
+    text-align: center;
+}
+
+.h-title {
+    font-size: 100px;
+    font-weight: 800;
+    border: 5px solid white;
+}
+
+.index-l {
+    text-align: center;
+    list-style: none;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.index-link {
+    text-decoration: none;
+    color: rgb(50, 50, 185);
+}
+
+img {
+    width: 750px;
+    height: auto;
+    align-items: center;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+.sub-t {
+    font-size: 25px;
+    font-weight: 300px;
+}
